@@ -1,2 +1,13 @@
 # Python_instacart
-The project focused on Instacart, an online grocery store that operates through an app. Instacart already has very good sales, but they wanted to uncover more information about their sales patterns. I performed an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the criteria they provided
+Instacart operates through a mobile app. They wanted more insights into sales patterns.
+## Objective
+Perform initial data exploration and analysis in order to find insights and develop suggestions from customer purchasing behavior to establish a marketing strategy.
+## Data
+#### The data contained the following customer information:
+orders
+
+customers
+
+products
+
+departments
